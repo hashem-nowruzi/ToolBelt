@@ -1,3 +1,5 @@
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 # ToolBelt
 It would be great if we had **all the useful tools** we need in **one place** and with **the smallest possible size**. 
 ToolBelt does exactly the same thing, but with a few key advantages:
