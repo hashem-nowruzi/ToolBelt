@@ -1,0 +1,34 @@
+body {
+    background-color: #eef0f2;
+
+    max-width: 1000px;
+    margin: 10px auto;
+}
+h1 {
+    margin: 10px;
+    color: #20252d;
+}
+hr {
+    margin: 10px 10px 20px 10px;
+}
+a {
+    color: black;
+}
+.tools {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin: 0 10px;
+}
+.tool {
+    max-width: 100px;
+    text-align: center;
+}
+.tool img {
+    display: block;
+    margin-bottom: 5px;
+}
+.tool span{
+    font-family: sans-serif;
+}
